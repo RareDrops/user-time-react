@@ -1,0 +1,14 @@
+
+
+:root {
+  --bg-primary-color: #F5F0E7;
+}
+
+
+.bg-primary-color {
+  background-color: var(--bg-primary-color);
+}
+
+
+
+@import "tailwindcss";
