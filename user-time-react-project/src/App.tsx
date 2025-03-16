@@ -1,6 +1,7 @@
 import Frame from './components/Frame'
 import Section from './components/Section'
 import TimerContent from './components/TimerContent'
+import CenteredContentDiv from './components/CenteredContentDiv'
 import './App.css'
 
 function App() {
@@ -8,7 +9,9 @@ function App() {
     <>
       <Section>
         <Frame>
-          <TimerContent></TimerContent>
+          <CenteredContentDiv style={{marginRight: "10%"}}>
+            <TimerContent></TimerContent>
+          </CenteredContentDiv>
         </Frame>
       </Section>
     </>
