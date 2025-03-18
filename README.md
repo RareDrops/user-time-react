@@ -39,7 +39,7 @@ npm install
 npm run dev
 ```
 
-2. Open your browser and navigate to `http://localhost:8090` or whatever the server is serving at.
+2. Open your browser and navigate to `http://localhost:5173/` or whatever the server is serving at.
 
 ## Dependencies
 
