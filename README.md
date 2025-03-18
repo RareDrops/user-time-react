@@ -12,6 +12,10 @@ Example app can be found in: https://raredrops.github.io/UserTimeReact
 - Displays the current time and date based on the user's timezone.
 - Uses Day.js for date and time manipulation.
 
+### To Implement:
+- Media queries using tailwind/react
+- Micromodal
+
 ## Installation
 
 1. Clone the repository:
@@ -59,10 +63,6 @@ npm run dev
 - `build`: Builds the project using TypeScript and Vite.
 - `predeploy`: Runs the build script before deployment.
 - `deploy`: Deploys the project to GitHub Pages using `gh-pages`.
-
-## To Implement:
-- Media queries using tailwind/react
-- Micromodal
 
 ## License
 
