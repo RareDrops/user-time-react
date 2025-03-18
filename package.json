@@ -1,7 +1,7 @@
 {
   "name": "user-time-react-project",
   "private": true,
-  "homepage": "https://raredrops.github.io/UserTimeReact",
+  "homepage": "https://raredrops.github.io/UserTimeReact/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.0.14",
