@@ -7,7 +7,7 @@ interface CenteredContentDivProps {
 
 function CenteredContentDiv( {children, style} : CenteredContentDivProps) {
 	return (
-		<div className={`w-1/2 h-1/2 flex flex-col items-center justify-center`} style={style}>
+		<div className={`flex flex-col items-center justify-around`} style={style}>
 			{children}
 		</div>
 	)
