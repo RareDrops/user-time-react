@@ -8,4 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+  base: "/UserTimeReact", // This is where our code is going to exist when we host it in github pages
 })
