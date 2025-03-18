@@ -6,7 +6,7 @@ interface FrameProps {
 
 function Frame( {children} : FrameProps) {
 	return (
-		<div className="w-1/2 h-1/2 flex flex-col items-center justify-center bg-primary-color border-5 rounded-2xl">
+		<div className="w-1/2 h-1/2 flex items-center justify-center bg-primary-color border-5 rounded-2xl">
 			{children}
 		</div>
 	)
