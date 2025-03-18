@@ -53,8 +53,11 @@ npm run dev
 - [gh-pages] - Tool to deploy your webpage to GitHub pages
 
 ## Scripts
-- `live-server`: Runs the server.
-- `npm run build`: Builds the project using Webpack.
+
+- `dev`: Starts the development server using Vite.
+- `build`: Builds the project using TypeScript and Vite.
+- `predeploy`: Runs the build script before deployment.
+- `deploy`: Deploys the project to GitHub Pages using `gh-pages`.
 
 ## License
 
@@ -70,4 +73,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Issues
 
-If you encounter any issues, please open an issue on GitHub: [https://github.com/RareDrops/UserTimeCheck/issues](https://github.com/RareDrops/UserTimeCheck/issues)
+If you encounter any issues, please open an issue on GitHub: [https://github.com/RareDrops/UserTimeReact/issues](https://github.com/RareDrops/UserTimeCheck/issues)
