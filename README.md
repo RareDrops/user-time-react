@@ -1,4 +1,10 @@
-# UserTimeReact
+# UserTimeReact (WIP)
+
+## To Implement:
+- Media queries using tailwind/react
+- Micromodal
+
+
 ![demo.gif](https://raw.githubusercontent.com/RareDrops/UserTimeCheck/refs/heads/master/.github/images/demo.gif)
 
 **UserTimeReact** is a simple webpage that shows the current time of the user. It uses [Day.js](https://day.js.org/) to get the time, date, and timezone information. This project is a clone project of [my other project](https://github.com/RareDrops/UserTimeCheck) but using React.
