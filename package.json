@@ -1,7 +1,7 @@
 {
   "name": "user-time-react-project",
   "private": true,
-  "homepage": "https://raredrops.github.io/UserTimeReact/",
+  "homepage": "https://raredrops.github.io/user-time-react/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
